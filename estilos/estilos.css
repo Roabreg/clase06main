@@ -1,0 +1,35 @@
+h1 {
+    font-size: 4vw; font-family: sans-serif;
+    background-image: url("../imagenes/fondo_1.jpg");
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 4vw 10vw
+    
+}
+
+p {
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: #ff3c00;
+    border: solid 8px;
+    padding: 4px;
+    border-radius: 10px;
+    margin: 8vw 10vw
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("../imagenes/fondo.jpg");
+}
+
+div {
+    text-align: center; font-size: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 102, 0);
+    border-color: rgb(255, 0, 0);
+    border: solid 3px;
+    padding: 4px;
+    border-radius: 4px;
+    margin: 5vw 10vw
+}
